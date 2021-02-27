@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# Halo Gw MR_DARK Gw Udah Buat Script Premium Wa Yang Bisa Di Decode >_<
+# Halo ME SkyFish ME Udah Buat Script Premium Wa Yang Bisa Di Decode >_<
 # KUY LANJUT
 from requests import ConnectionError
 from time import sleep
@@ -121,9 +121,9 @@ def apakah():
 		if( lan == 'y' or lan == 'Y'):
 			jnspam()
 		elif(lan == 'n' or lan == 'N'):
-			print ('JAN LUPA SUBS MR_DARK')
+			print ('JAN LUPA NGOPI')
 			time.sleep(4)
-			os.system('xdg-open https://youtube.com/channel/UCnti7B0HaFE0izlHKwZMn8A')
+			os.system('xdg-open https://t.me/SkyFish404')
 			break
 		else:
 			continue
@@ -252,7 +252,7 @@ def main():
 	if( pil == '1' or pil == '01'):
 		single()
 	elif( pil == '2' or pil == '02'):
-		print ('Jan Lupa Subs MR_DARK')
+		print ('Jan Lupa NGOPI')
 		os.system('exit')
 	elif( pil == '0' or pil == '00'):
 		jnspam()
@@ -277,9 +277,9 @@ def auto_format(text):
                 sleep(random.random() * 0.02)
 def dark_format_0992():
 	os.system('clear')
-	print (C+'Subs YT'+W+' MR_DARK!'+C+' :v')
+	print (C+'NGOPI'+W+' SkyFish'+C+' :v')
 	time.sleep(2)
-	os.system('xdg-open https://youtube.com/channel/UCnti7B0HaFE0izlHKwZMn8A')
+	os.system('xdg-open https://t.me/SkyFish404')
 	time.sleep(2)
 	os.system('clear')
 	time.sleep(2)
@@ -291,7 +291,7 @@ def dark_format_0992():
  \ \____-  \ \_\ \_\  \ \_\ \_\  \ \_\ \_\     \ \__/".~\_\  \ \_\ \_\ 
   \/____/   \/_/\/_/   \/_/ /_/   \/_/\/_/      \/_/   \/_/   \/_/\/_/ 
                                                                        
-                   '''+W+'By: ./'+A+' MR_DARK\n\t\t' + M + ' YT' +P+ ' >'+K+' MR_DARK')
+                   '''+W+'By: ./'+A+' SkyFish\n\t\t' + M + ' https://t.me/SkyFish404' +P+ ' >'+K+' SkyFish')
 def dark():
         print ('')
         print ('')
@@ -305,7 +305,7 @@ def dark():
         dark_format_auto(C+'\t['+W+'7'+C+']'+M+' EXIT'+C+' ( '+H+'Aktif'+C+' )')
         print ('')
 def dark_exit():
-	print (C+'Byee Jan Lupa Subs MR_DARK')
+	print (C+'Byee Jan Lupa NGOPI')
 	os.system('exit')
 def jnspam():
 	global jns
